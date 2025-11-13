@@ -75,10 +75,5 @@ jupyter notebook "Saudi Arabia Used Cars Price Prediction.ipynb"
 
 ## 👤 Author
 **Brian Samuel Matthew**  
-Data Science Capstone Project  
-Jakarta, Indonesia — 2025  
-
-📧 [your-email@example.com]  
-🔗 [LinkedIn / GitHub profile if desired]
 
 ---
