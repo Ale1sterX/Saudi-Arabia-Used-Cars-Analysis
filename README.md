@@ -27,8 +27,8 @@ This project aims to provide an interpretable model that estimates fair prices f
 ### 2. Clone Repository
 
 ```bash
-git clone https://github.com/<your-username>/used-car-price-prediction.git
-cd used-car-price-prediction
+git clone https://github.com/Ale1sterX/Saudi-Arabia-Used-Cars-Analysis
+cd Saudi-Arabia-Used-Cars-Analysis
 ```
 
 ### 3. Install Dependencies
@@ -45,7 +45,7 @@ jupyter notebook "Saudi Arabia Used Cars Price Prediction.ipynb"
 
 ---
 
-## 🧱 Project Structure
+## Project Structure
 
 ```
 📁 used-car-price-prediction
@@ -57,7 +57,7 @@ jupyter notebook "Saudi Arabia Used Cars Price Prediction.ipynb"
 
 ---
 
-## 📈 Features
+## Features
 - Data preprocessing and feature engineering  
 - Model training with **XGBoost**  
 - Hyperparameter tuning with **RandomizedSearchCV**  
@@ -66,14 +66,14 @@ jupyter notebook "Saudi Arabia Used Cars Price Prediction.ipynb"
 
 ---
 
-## 🧠 Insights
+## Insights
 - Car **brand**, **model year**, and **mileage** are major predictors of price.  
 - Newer cars and premium brands (e.g., BMW, Mercedes) show higher resale value.  
 - SHAP analysis highlights feature contributions per prediction.  
 
 ---
 
-## 👤 Author
+## Author
 **Brian Samuel Matthew**  
 
 ---
